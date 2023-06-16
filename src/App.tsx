@@ -23,7 +23,7 @@ import routerBindings, {
 } from "@refinedev/react-router-v6";
 import dataProvider from "@refinedev/simple-rest";
 import axios, { AxiosRequestConfig } from "axios";
-import { CredentialResponse } from "interfaces/google";
+import { CredentialResponse } from "./interfaces/google";
 import {
   BlogPostCreate,
   BlogPostEdit,
